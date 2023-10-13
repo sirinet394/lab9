@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 body {
-    background-image: url('https://cdn.pixabay.com/photo/2023/10/03/09/19/sunrise-8290940_640.jpg');
+    background-image: url('https://images.pexels.com/photos/8476049/pexels-photo-8476049.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
     background-size: cover; /* ให้รูปภาพปรับขนาดเพื่อพอดีกับขนาดของพื้นหลัง */
     background-repeat: no-repeat; /* ปิดการทำซ้ำรูปภาพ */
     background-attachment: fixed; /* ทำให้รูปภาพติดตามการเลื่อนหน้าเว็บ */
